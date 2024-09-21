@@ -112,7 +112,7 @@ Thanks to the Kaggle community for providing the dataset and to the numerous onl
 
 ---
 
-**#Day_90**  
+**#Day90**  
 **#MachineLearning**  
 **#DataScienceJourney**  
 **#BengaluruHousePrices**  
